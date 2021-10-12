@@ -1,0 +1,23 @@
+{
+  "name": "bootcamp-assessment-proto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -w --detectOpenHandles"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "jest": "^27.2.5",
+    "mocha": "^9.1.2",
+    "nodemon": "^2.0.13",
+    "npm": "^8.0.0",
+    "sequelize": "^6.7.0",
+    "sqlite3": "^5.0.2",
+    "supertest": "^6.1.6"
+  }
+}
